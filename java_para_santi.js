@@ -1,0 +1,1 @@
+$windows.Alert("hola ak estoy")
